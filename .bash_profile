@@ -1,0 +1,10 @@
+export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin
+export PATH="/Applications/Postgres.app/Contents/Versions/latest/bin:$PATH"
+export DATABASE_HOST=localhost
+export DATABASE_PORT=5432
+export NODE_PORT=8080
+export PS1="\[\033[36m\]\u\[\033[m\]:\[\033[33;1m\]\w\[\033[m\]\$ "
+export CLICOLOR=1
+export LSCOLORS=ExFxBxDxCxegedabagacad
+alias ls='ls -GFh'
